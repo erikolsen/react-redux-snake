@@ -1,0 +1,11 @@
+.segment {
+  position: fixed;
+}
+
+.hide {
+  display: none;
+}
+
+.banner {
+  text-align: center;
+}
